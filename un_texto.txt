@@ -1,2 +1,4 @@
-Le cambiamos el mismo archivo
+
+Hola estamos probando Git.
+AHORA LE AGREGAMOS UN TEXTO
 
