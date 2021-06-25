@@ -1,1 +1,2 @@
 Hola estamos probando Git.
+AHORA LE AGREGAMOS UN TEXTO
